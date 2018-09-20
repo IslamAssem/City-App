@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المدينة</string>
+    <string name="new_coupon">كويون جديد</string>
+    <string name="title_activity_main">عنوان الشاشة الرئيسية</string>
+    <string name="buy">شراء</string>
+    <string name="all_details">كل التفاصيل</string>
+    <string name="available_in">متاح فى</string>
+    <string name="cart">cart</string>
+    <string name="home">home</string>
+</resources>
